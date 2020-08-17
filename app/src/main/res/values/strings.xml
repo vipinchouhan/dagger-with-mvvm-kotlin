@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI Demo</string>
+    <string name="wicket">WICKET-KEEPER</string>
+    <string name="batter">BATTER</string>
+    <string name="rounder">ALL-ROUNDER</string>
+    <string name="bowler">BOWLER</string>
+</resources>
